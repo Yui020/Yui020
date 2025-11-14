@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
-![Yui's GitHub stats](https://github-readme-stats.vercel.app/api?Yui020=anuraghazra&commits_year=2020)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yui020&commits_year=2020)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
