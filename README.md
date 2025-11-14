@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jude Mikel Rey</h1>
 <h3 align="center">A passionate aspiring back-end developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yui020&label=Profile%20views&color=0e75b6&style=flat" alt="Yui020" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
@@ -65,17 +61,3 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" />
   </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yui020&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yui020&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yui020" />
-</p>
-
-
