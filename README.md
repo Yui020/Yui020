@@ -4,6 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
+![Yui's GitHub stats](https://github-readme-stats.vercel.app/api?Yui020=anuraghazra&commits_year=2020)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
