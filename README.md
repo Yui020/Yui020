@@ -8,6 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yui020&layout=compact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yui020&repo=github-readme-stats)](https://github.com/Yui020/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
