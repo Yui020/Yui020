@@ -6,6 +6,8 @@
 
 ![Yui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yui020&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yui020&layout=compact)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
